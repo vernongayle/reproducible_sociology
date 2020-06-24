@@ -25,11 +25,11 @@ THIS MUST BE UPDATED
 | -------------------------------------|:-------------:|:-------------:|
 | xx.ipynb| .ipynb | Jupyter notebook for the paper |
 | xx.pdf| .pdf | pdf version of the Jupyter notebook for the paper |
-| xx.pdf | .pdf | ethics material |
-| pre_analysis_plan_20200609_vg_v2.pdf| .pdf | the pre-analysis plan|
-| xx| .pdf | the bitcoin certificate (blockchain authentication)|
+| xx.pdf | .pdf | Ethics material |
+| pre_analysis_plan_20200609_vg_v2.pdf| .pdf | The pre-analysis plan|
+| xx| .pdf | The bitcoin certificate (blockchain authentication)|
 | intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
-| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
+| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | Updated pdf on how to install Jupyter and the Stata and R kernels |
 
 <br>
 
