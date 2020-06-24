@@ -1,5 +1,5 @@
 # The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method <br>
-# Professor Vernon Gayle, University of Edinburgh (UK) <br>
+## Professor Vernon Gayle, University of Edinburgh (UK) <br>
  <br>
 <span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span> <br>
 
@@ -15,7 +15,7 @@ blah blah blah.<br>
 
 ## Files Available in this Repository <br>
 
-
+THIS MUST BE UPDATED
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
