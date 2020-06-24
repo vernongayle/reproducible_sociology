@@ -63,7 +63,7 @@ _A fantastic book. This is the 'bible' of good data analysis workflow practices.
 <br>
 <br>
 ### Literate Computing <br>
-A blog post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html  <br>
+A post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html  <br>
 <br>
 <br>
 ### Other links <br>
