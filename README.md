@@ -90,7 +90,7 @@ http://www.markdowntutorial.com/ <br>
 ---
 
 
-### Vernon Gayle's recent book:
+### Vernon Gayle's recent book
 
 
 Gayle, V. and Lambert, P. (2018) What is Quantitative Longitudinal Data Analysis?  Bloomsbury Publishing.
