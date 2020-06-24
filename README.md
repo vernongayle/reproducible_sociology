@@ -1,8 +1,9 @@
 # The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method <br>
 ## Professor Vernon Gayle, University of Edinburgh (UK) <br>
-
+<br>
+<br>
  
-## This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for the paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method' <br>
+### **This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for the paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method'. <br>
 
 ## Pre-amble <br>
 <br>
@@ -12,7 +13,7 @@ The motivation for the methodological paper 'The Stark Realities of Reproducible
 <br>
 
 
-## RESOURCES <br>
+## Resources <br>
 
 ## Files Available in this Repository <br>
 
