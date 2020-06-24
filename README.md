@@ -24,7 +24,7 @@ THIS MUST BE UPDATED
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
 | xx.ipynb| .ipynb | Jupyter notebook for the paper |
-| xx.pdf| .pdf | pdf version of the Jupyter notebook for the paper |
+| xx.pdf| .pdf | PDF version of the Jupyter notebook for the paper |
 | xx.pdf | .pdf | Ethics material |
 | pre_analysis_plan_20200609_vg_v2.pdf| .pdf | The pre-analysis plan|
 | xx| .pdf | The bitcoin certificate (blockchain authentication)|
