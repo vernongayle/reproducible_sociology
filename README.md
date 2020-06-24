@@ -23,13 +23,13 @@ THIS MUST BE UPDATED
 
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
-| intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
-| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
 | xx.ipynb| .ipynb | Jupyter notebook for the paper |
 | xx.pdf| .pdf | pdf version of the Jupyter notebook for the paper |
-| xx.pdf | pdf version of the ethics material |
-| xx| .pdf | pdf version of the pre-analysis plan|
-| xx| .pdf | pdf version of the bitcoin certificate (blockchain authentication)|
+| xx.pdf | .pdf | ethics material |
+| xx| .pdf | the pre-analysis plan|
+| xx| .pdf | the bitcoin certificate (blockchain authentication)|
+| intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
+| jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
 
 <br>
 
