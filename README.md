@@ -1,5 +1,5 @@
 # reproducible_sociology
-The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method
+## The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method
 
 # An introduction to Jupyter Notebooks – towards literate computing and reproducible research <br>
 <br>
