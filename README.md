@@ -11,13 +11,13 @@
 <br>
 Across a wide range of academic disciplines there is increasing concern that research findings cannot be reproduced (i.e. consistently repeated), and therefore it is impossible to verify empirical results. A number of reproducibility guidelines have been proposed in computational economics, biometrics, medical research, computational research, and psychology. At the current time there is little guidance for sociological researchers. <br>
 <br>
-The motivation for the methodological paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method' is to stimulate the debate on reproducibility in sociology, and to provide guidance for sociologists. Given the broad spectrum of the types of data that are collected within sociological enterprises, and the necessary array of analytical techniques employed by sociologists, a single set of guidelines for undertaking reproducible research is unlikely to be adequate. The focus of this work is sociological research that employs statistical techniques for the analysis of large-scale and complex datasets (e.g. social surveys, Census records, administrative data and big datasets).
+The motivation for the methodological paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method' is to stimulate the debate on reproducibility in sociology, and to provide guidance for sociologists. Given the broad spectrum of the types of data that are collected within sociological enterprises, and the necessary array of analytical techniques employed by sociologists, a single set of guidelines for undertaking reproducible research is unlikely to be adequate. The focus of this work is sociological research that employs statistical techniques for the analysis of large-scale and complex datasets (e.g. social surveys, Census records, administrative data and big datasets).<br>
 <br>
-
+<br>
 
 ## Resources <br>
 
-## Files Available in this Repository <br>
+### Files Available in this Repository <br>
 
 THIS MUST BE UPDATED
 
@@ -32,7 +32,7 @@ THIS MUST BE UPDATED
 
 <br>
 
-
+### Jupyter Resources<br>
 ### [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
 
 ### nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ <br>
@@ -41,7 +41,7 @@ THIS MUST BE UPDATED
 
 ----
 
-### Getting Started <br>
+### Getting Started with Jupyter<br>
 The Project Jupyter Website (http://jupyter.org/) <br>
 <br>
 Install Jupyter http://jupyter.org/install.html<br>
