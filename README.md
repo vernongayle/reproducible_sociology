@@ -1,9 +1,9 @@
 # The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method <br>
 ## Professor Vernon Gayle, University of Edinburgh (UK) <br>
  <br>
-## This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for the paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method' <br>
+## RESOURCES This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for the paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method' <br>
  <br>
-## Pre-amble <br>
+## RESOURCES <br>
 <br>
 Across a wide range of academic disciplines there is increasing concern that research findings cannot be reproduced (i.e. consistently repeated), and therefore it is impossible to verify empirical results. A number of reproducibility guidelines have been proposed in computational economics, biometrics, medical research, computational research, and psychology. At the current time there is little guidance for sociological researchers. <br>
 <br>
