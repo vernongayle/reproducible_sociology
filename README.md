@@ -34,8 +34,11 @@ THIS MUST BE UPDATED
 
 ### Jupyter Resources<br>
 [An Introductory Video on Jypyter Notebooks and Social Research](https://www.youtube.com/watch?v=Os3s1jwLAEI)  <br>
+
 nbviewer - A simple way to share Jupyter notebooks https://nbviewer.jupyter.org/ <br>
+
 Link to the git repo for Connelly and Gayle (2017) https://github.com/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts <br>
+
 View Connelly and Gayle (2017) Jupyter Notebook in nbviewer https://nbviewer.jupyter.org/github/RoxanneConnelly/Social-Class-Inequalities-in-General-Cognitive-Ability-in-Two-British-Birth-Cohorts/blob/master/JupterNotebook_20171122.ipynb
 
 ----
