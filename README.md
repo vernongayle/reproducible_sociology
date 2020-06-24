@@ -25,7 +25,7 @@ THIS MUST BE UPDATED
 | -------------------------------------|:-------------:|:-------------:|
 | xx.ipynb| .ipynb | Jupyter notebook for the paper |
 | xx.pdf| .pdf | PDF version of the Jupyter notebook for the paper |
-| xx.pdf | .pdf | Ethics material |
+| research_ethics_form.pdf | .pdf | Research ethics application form |
 | pre_analysis_plan_20200609_vg_v2.pdf| .pdf | The pre-analysis plan|
 |certificate.Bitcoin.~.pdf| .pdf | The bitcoin certificate (blockchain authentication)|
 | intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
