@@ -25,10 +25,11 @@ THIS MUST BE UPDATED
 | -------------------------------------|:-------------:|:-------------:|
 | intro_jupyter_20180929_vg_v2.pdf |.pdf | Getting started with Jupyter |
 | jupyter_install_june_2019_20190618_vg_v3.pdf | .pdf | updated pdf on how to install Jupyter and the Stata and R kernels |
-| lux_20180929_vg_v1.ipynb| .ipynb | Jupyter notebook for the workshop |
-| lux_20180929_vg_v1.pdf| .pdf | pdf version of the Jupyter notebook for the workshop |
-| luxembourg_20180928_vg_v3.pdf| .pdf | pdf version of slides from my talk |
-| workshop_oct_slides_20180929_vg_v1.pdf| .pdf | pdf version of slides for the workshop|
+| xx.ipynb| .ipynb | Jupyter notebook for the paper |
+| xx.pdf| .pdf | pdf version of the Jupyter notebook for the paper |
+| xx.pdf | pdf version of the ethics material |
+| xx| .pdf | pdf version of the pre-analysis plan|
+| xx| .pdf | pdf version of the bitcoin certificate (blockchain authentication)|
 
 <br>
 
