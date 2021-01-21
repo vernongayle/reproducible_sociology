@@ -94,13 +94,11 @@ http://www.markdowntutorial.com/ <br>
 ### Vernon Gayle's recent book
 
 
-Gayle, V. and Lambert, P. (2018) What is Quantitative Longitudinal Data Analysis?  Bloomsbury Publishing.
+Gayle, V. and Lambert, P. (2021) Quantitative Longitudinal Data Analysis Bloomsbury Publishing.
 
-![picture](https://media.bloomsbury.com/rep/f/9781472515407.jpg)
 ![picture](https://media.bloomsbury.com/rep/f/9781350188853.jpg)
 
-Available at Amazon https://tinyurl.com/y8cbf7c2 or directly from Bloomsbury https://tinyurl.com/y9x5fltk 
-
+Available from Bloomsbury https://www.bloomsbury.com/uk/quantitative-longitudinal-data-analysis-9781350188853/
 <br>
 <br>
 End of file.
