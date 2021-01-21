@@ -3,7 +3,7 @@
 <br>
 <br>
  
-### This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for the paper 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method'. <br>
+### This is a repository that makes public the workflow and research artefacts (e.g. associated documents) for a project entitled 'The Stark Realities of Reproducible Sociological Research: Some Newer Rules of the Sociological Method'. <br>
 <br>
 <br>
 
